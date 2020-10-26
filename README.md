@@ -70,6 +70,11 @@
 
 <br/>  
 
+## Now Listening on Spotify
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilangorajagopal&cover_image=true&theme=default" /></div>  
+
+<br/>
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilangorajagopal&show_icons=true&count_private=true" align="center" /></div>
