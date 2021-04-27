@@ -2,10 +2,7 @@
   
 
 ### <div align="center">I'm Ilango, a full-stack engineer and founder 👨‍💻 🚀</div>  
-  
 
-- 🔭 Engineering @ [Rocketium](https://rocketium.com).  
-  
 
 - 🚀 Founder @ [EasyAuth](https://easyauth.io)  
   
