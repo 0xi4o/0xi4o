@@ -1,10 +1,10 @@
 # <div align="center">Hello 👋</div>  
   
 
-### <div align="center">I'm Ilango, a full-stack engineer and founder 👨‍💻 🚀</div>  
+### <div align="center">I'm Ilango, a full-stack engineer 👨‍💻 🚀</div>  
 
 
-- 🚀 Founder @ [EasyAuth](https://easyauth.io)  
+- 🚀 Building [EasyAuth Inc](https://easyauth.io)  
   
 
 - 🌱 I’m currently learning AWS  
