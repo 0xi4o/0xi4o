@@ -2,9 +2,6 @@
   
 
 ### <div align="center">I'm Ilango, a full-stack engineer 👨‍💻 🚀</div>  
-
-
-- 🚀 Building [EasyAuth](https://easyauth.io)  
   
 
 - 🌱 I’m currently learning AWS  
