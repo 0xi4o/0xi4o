@@ -4,7 +4,7 @@
 ### <div align="center">I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2015 🚀</div>  
   
 
-- 🌱 I’m currently learning Rust and GraphQL  
+- 🌱 I’m currently learning Rust and PostgreSQL
   
 
 - ❓ Ask me about anything related to MERN stack, JAMstack, AWS and related technologies  
