@@ -4,9 +4,6 @@
 ### <div align="center">I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2015 🚀</div>  
   
 
-- 🔭 I’m currently working on [Stym](https://stym.io)  
-  
-
 - 🌱 I’m currently learning Rust and GraphQL  
   
 
