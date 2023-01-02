@@ -4,7 +4,7 @@
 ### <div align="center">I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2015 🚀</div>  
   
 
-- 🌱 I’m currently learning Go and Rust
+- 🌱 I’m currently learning Rust
   
 
 - ❓ Ask me about anything related to Remix, JAMstack, AWS and related technologies  
