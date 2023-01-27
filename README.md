@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-- 💻 My IDE of choice is WebStorm  
+- 💻 My IDE of choice is ~~WebStorm~~ [LunarVim](https://www.lunarvim.org/)
   
 
 <br/>  
