@@ -74,11 +74,15 @@
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=ilangorajagopal&show_icons=true&count_private=true&hide_border=true" align="center" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilangorajagopal&hide_border=true&layout=compact" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=i4o-dev&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4o-dev&hide_border=true&layout=compact" align="center" /> 
 
 
 <br/> 
+
+## Coding Stats
+
+[![i4o's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i4o)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Listening To
