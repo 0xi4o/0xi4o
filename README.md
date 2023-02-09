@@ -9,6 +9,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 -   :seedling: Building [Catalyst UI](https://catalyst.i4o.dev) and [Rescribe](https://github.com/i4o-oss/rescribe)
 -   :man: Pronouns: he/him
 -   :pencil2: Writing about web dev, learning, side projects at [i4o.dev](https://i4o.dev)
+-   :link: Links: [bento.me/i4o](https://bento.me/i4o)
 
 <br/>
 
