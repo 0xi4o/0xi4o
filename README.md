@@ -13,11 +13,6 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 <br/>
 
-## Coding Stats
-
-[![i4o's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i4o)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Listening To
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilangorajagopal&cover_image=true&theme=default" /></div>  
