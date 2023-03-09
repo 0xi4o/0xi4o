@@ -6,7 +6,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 -   :hammer_and_pick: React / Remix / TypeScript / Rust / Prisma / Node.js
 -   :pencil2: [Ubuntu](https://ubuntu.com/) / [i3wm](https://i3wm.org/) / [Lunarvim](https://lunarvim.org/)
--   :seedling: Building [Catalyst UI](https://catalyst.i4o.dev) and [Rescribe](https://github.com/i4o-oss/rescribe)
+-   :seedling: Building [Aurelius](https://aurelius.ink/), [Rescribe](https://rescribe.site/), and [Catalyst UI](https://catalyst-ui.com/)
 -   :man: Pronouns: he/him
 -   :pencil2: Writing about web dev, learning, side projects at [i4o.dev](https://i4o.dev)
 -   :link: Links: [bento.me/i4o](https://bento.me/i4o)
