@@ -19,6 +19,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 - [Synthwave Stack](https://github.com/i4o-oss/synthwave-stack)
 - [cargo-use](https://github.com/i4o-dev/cargo-use)
 - [Rescribe](https://rescribe.site/) (WIP)
+- [Zilean](https://github.com/i4o-dev/zilean) (WIP)
 
 <br/>
 
