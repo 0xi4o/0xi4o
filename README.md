@@ -12,7 +12,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 <br/>
 
-## :seedling: Projects
+## :seedling: Open Source Projects
 
 - [Aurelius](https://aurelius.ink/)
 - [Catalyst UI](https://catalyst-ui.com/)
