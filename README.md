@@ -1,7 +1,5 @@
 ## Hey, i4o here! :wave:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=i4o-dev&theme=chartreuse-dark&show_icons=true" />
-
 I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2015 🚀
 
 -   :hammer_and_pick: React / Remix / TypeScript / Rust / Prisma / Node.js
