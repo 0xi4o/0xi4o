@@ -16,9 +16,8 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 - [Catalyst UI](https://catalyst-ui.com/)
 - [Synthwave Stack](https://github.com/i4o-oss/synthwave-stack)
 - [uxinspo](https://uxinspo.site/)
-- [Rescribe](https://rescribe.site/)
+- [Rescribe](https://rescribe.site/) (WIP)
 - [cargo-use](https://github.com/i4o-dev/cargo-use)
-- [Zilean](https://github.com/i4o-dev/zilean) (WIP)
 
 <br/>
 
