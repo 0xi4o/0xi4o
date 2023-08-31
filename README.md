@@ -21,13 +21,17 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 <br/>
 
+## Github 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i4o-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=640)](https://git.io/streak-stats)
+
 ## :musical_note: Listening To
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilangorajagopal&cover_image=true&theme=default" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilangorajagopal&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=i4o-dev&&style=flat-square" align="center" />
 </div>  
 
