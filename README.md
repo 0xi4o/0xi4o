@@ -8,8 +8,6 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 -   :pencil2: Writing about web dev, learning, and side projects at [i4o.dev](https://i4o.dev)
 -   :link: Links: [bento.me/i4o](https://bento.me/i4o)
 
-<br/>
-
 ## :seedling: Open Source Projects
 
 - [Aurelius](https://aurelius.ink/)
@@ -19,9 +17,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 - [Rescribe](https://rescribe.site/) (WIP)
 - [cargo-use](https://github.com/i4o-dev/cargo-use)
 
-<br/>
-
-## Github 
+## :computer: Github 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i4o-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=640)](https://git.io/streak-stats)
 
@@ -29,10 +25,6 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ilangorajagopal&cover_image=true&theme=default" /></div>  
 
-<br/>  
-
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=i4o-dev&&style=flat-square" align="center" />
 </div>  
-
-<br/>  
