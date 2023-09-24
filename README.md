@@ -19,7 +19,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 ## :computer: Github 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=i4o-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=640)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xi4o&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=640)](https://git.io/streak-stats)
 
 ## :musical_note: Listening To
 
