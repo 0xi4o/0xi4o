@@ -3,7 +3,7 @@
 I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2015 🚀
 
 -   :hammer_and_pick: React / Remix / TypeScript / Rust / Prisma / Node.js
--   :pencil2: [Ubuntu](https://ubuntu.com/) / [i3wm](https://i3wm.org/) / [Lunarvim](https://lunarvim.org/)
+-   :pencil2: [Ubuntu](https://ubuntu.com/) / [i3wm](https://i3wm.org/) / [WebStorm](https://www.jetbrains.com/webstorm/) / [RustRover](https://www.jetbrains.com/rust/) / [Neovim](https://neovim.io/)
 -   :man: Pronouns: he/him
 -   :pencil2: Writing about web dev, learning, and side projects at [i4o.dev](https://i4o.dev)
 -   :link: Links: [bento.me/i4o](https://bento.me/i4o)
