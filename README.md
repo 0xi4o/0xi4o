@@ -10,11 +10,11 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 ## :seedling: Open Source Projects
 
-- [Aurelius](https://aurelius.ink/)
-- [Catalyst UI](https://catalyst-ui.com/)
-- [Synthwave Stack](https://github.com/i4o-oss/synthwave-stack)
+- [Catalyst UI](https://catalyst-ui.netlify.app/)
+- [Rescribe](https://github.com/i4o-oss/rescribe)
+- [Aurelius](https://github.com/i4o-oss/aurelius)
 - [uxinspo](https://uxinspo.site/)
-- [Rescribe](https://rescribe.site/)
+- [Synthwave Stack](https://synthwave-stack.fly.dev/)
 - [cargo-use](https://github.com/i4o-dev/cargo-use)
 
 ## :computer: Github 
