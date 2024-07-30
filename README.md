@@ -3,17 +3,15 @@
 I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2015 🚀
 
 -   :hammer_and_pick: React / Remix / TypeScript / Rust / Prisma / Node.js
--   :pencil2: Fedora / [i3wm](https://i3wm.org/) / [Alacritty](https://alacritty.org/) / [Tmux](https://github.com/tmux/tmux) / [WebStorm](https://www.jetbrains.com/webstorm/) / [RustRover](https://www.jetbrains.com/rust/) / [Neovim](https://neovim.io/)
--   :man: Pronouns: he/him
+-   :pencil2: Fedora / [i3wm](https://i3wm.org/) / [Alacritty](https://alacritty.org/) / [Tmux](https://github.com/tmux/tmux) / [WebStorm](https://www.jetbrains.com/webstorm/) / [GoLand](https://www.jetbrains.com/go/) / [RustRover](https://www.jetbrains.com/rust/) / [Neovim](https://neovim.io/)
 -   :pencil2: Writing about web dev, learning, and side projects at [i4o.dev](https://i4o.dev)
--   :link: Links: [bento.me/i4o](https://bento.me/i4o)
 
 ## :seedling: Open Source Projects
 
-- [Catalyst UI](https://catalyst-ui.netlify.app/)
-- [Rescribe](https://github.com/i4o-oss/rescribe)
-- [Aurelius](https://github.com/i4o-oss/aurelius)
+- [Aurelius](https://github.com/aureliushq/aurelius)
 - [uxinspo](https://uxinspo.site/)
+- [Catalyst UI](https://catalyst-ui.netlify.app/) (Will be archived soon)
+- [Rescribe](https://github.com/i4o-oss/rescribe) (Archived)
 - [Synthwave Stack](https://synthwave-stack.fly.dev/)
 - [cargo-use](https://github.com/i4o-dev/cargo-use)
 
