@@ -17,7 +17,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 ## :computer: Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0xi4o&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=640)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-taupe-two.vercel.app?user=0xido&theme=highcontrast&card_width=560&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=i4o-dev&&style=flat-square" align="center" />
