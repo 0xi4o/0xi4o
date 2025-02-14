@@ -8,8 +8,8 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 ## :seedling: Open Source Projects
 
-- [Aurelius](https://github.com/aureliushq/aurelius)
 - [Rescribe](https://github.com/aureliushq/rescribe)
+- [Aurelius](https://aurelius.ink/)
 - [uxinspo](https://uxinspo.site/)
 - [Catalyst UI](https://catalyst-ui.netlify.app/) (Will be archived soon)
 - [Synthwave Stack](https://synthwave-stack.fly.dev/)
