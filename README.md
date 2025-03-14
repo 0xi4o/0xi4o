@@ -8,7 +8,7 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 ## :seedling: Open Source Projects
 
-- [Rescribe](https://github.com/aureliushq/rescribe)
+- [Kobun](https://github.com/aureliushq/kobun)
 - [Aurelius](https://aurelius.ink/)
 - [uxinspo](https://uxinspo.site/)
 - [Catalyst UI](https://catalyst-ui.netlify.app/) (Will be archived soon)
