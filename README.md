@@ -11,6 +11,6 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 - [Kobun](https://github.com/aureliushq/kobun)
 - [Aurelius](https://aurelius.ink/)
 - [uxinspo](https://uxinspo.site/)
-- [Catalyst UI](https://catalyst-ui.netlify.app/) (Will be archived soon)
+- [Catalyst UI](https://catalyst-ui.netlify.app/) (Archived)
 - [Synthwave Stack](https://synthwave-stack.fly.dev/)
 - [cargo-use](https://github.com/i4o-dev/cargo-use)
