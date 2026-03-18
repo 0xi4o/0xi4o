@@ -8,10 +8,6 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 ## :seedling: Open Source Projects
 
-- [Watchtower](https://github.com/i4o-oss/watchtower) (WIP)
 - [Kobun](https://github.com/aureliushq/kobun) (WIP)
 - [Aurelius](https://aurelius.ink/)
 - [uxinspo](https://uxinspo.site/)
-- [Catalyst UI](https://catalyst-ui.netlify.app/) (Archived)
-- [Synthwave Stack](https://synthwave-stack.fly.dev/)
-- [cargo-use](https://github.com/i4o-dev/cargo-use)
