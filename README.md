@@ -4,10 +4,11 @@ I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2
 
 -   :pencil2: Writing about web dev, learning, and side projects at [i4o.dev](https://i4o.dev)
 -   :hammer_and_pick: React / Remix / TypeScript / Go / Node.js / SQLite / PostgreSQL / AWS / Terraform
--   :pencil2: Ubuntu / [i3wm](https://i3wm.org/) / [Ghostty](https://ghostty.org/) / [Tmux](https://github.com/tmux/tmux) / [Neovim](https://neovim.io/) / [Zed](https://zed.dev/)
+-   :pencil2: Fedora / [i3wm](https://i3wm.org/) / [Ghostty](https://ghostty.org/) / [Tmux](https://github.com/tmux/tmux) / [Doom Emacs](https://github.com/doomemacs/core) / [Neovim](https://neovim.io/)
 
 ## :seedling: Open Source Projects
 
+- [Ink](https://github.com/aureliushq/ink) (WIP)
 - [Kobun](https://github.com/aureliushq/kobun) (WIP)
 - [Aurelius](https://aurelius.ink/)
 - [uxinspo](https://uxinspo.site/)
