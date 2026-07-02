@@ -2,8 +2,8 @@
 
 I'm Ilango, a full-stack engineer 👨‍💻 working with SaaS startups since 2015 🚀
 
--   :pencil2: Writing about web dev, learning, and side projects at [i4o.dev](https://i4o.dev)
--   :hammer_and_pick: React / Remix / TypeScript / Go / Node.js / SQLite / PostgreSQL / AWS / Terraform
+-   :pencil2: Every week, I document my thoughts and learnings on software engineering, deep dives, system design, and personal growth [on my blog](https://i4o.dev/posts)
+-   :hammer_and_pick: Go / React / Remix / TypeScript / Node.js / SQLite / PostgreSQL / AWS / Terraform
 -   :pencil2: Fedora / [i3wm](https://i3wm.org/) / [Ghostty](https://ghostty.org/) / [Tmux](https://github.com/tmux/tmux) / [Doom Emacs](https://github.com/doomemacs/core) / [Neovim](https://neovim.io/)
 
 ## :seedling: Open Source Projects
